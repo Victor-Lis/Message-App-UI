@@ -44,11 +44,14 @@ const styles = StyleSheet.create({
 ## Screenshots
 
 ### Enviando mensagem
-![UI - 1](https://github.com/Victor-Lis/Message-App-UI/blob/master/project-images/UI1.jpg)
-
+<div align="center">
+    <img src="https://github.com/Victor-Lis/Message-App-UI/blob/master/project-images/UI1.jpg" alt="Enviando Mensagem">
+</div>
 
 ### Recebendo mensagem
-![UI - 2](https://github.com/Victor-Lis/Message-App-UI/blob/master/project-images/UI2.jpg)
+<div align="center">
+    <img src="https://github.com/Victor-Lis/Message-App-UI/blob/master/project-images/UI2.jpg" alt="Recebendo Mensagem">
+</div>
 
 ## Autores
 
