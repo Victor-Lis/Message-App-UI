@@ -1,5 +1,5 @@
 
-# Message System UI 
+# Message App UI 
 
 Honestamente minha ideia inicial nem era postar esse "projeto" ou dar esse nome, acabei apenas vendo o vídeo [Flatlist com Scroll Inverso no React Native](https://www.youtube.com/watch?v=fpAlf1vPCE4&t=60s) do [Rodrigo Gonçalves](https://www.youtube.com/@orodrigogo) e como migrei do JS para o TS recemente achei que seria um projeto simples e bacana para fazer essa "passada" em React Native.
 ## Aprendizados
@@ -45,12 +45,12 @@ const styles = StyleSheet.create({
 
 ### Enviando mensagem
 <div align="center">
-    <img src="https://github.com/Victor-Lis/Message-App-UI/blob/master/project-images/UI1.jpg" alt="Enviando Mensagem">
+    <img height="50%" src="https://github.com/Victor-Lis/Message-App-UI/blob/master/project-images/UI1.jpg" alt="Enviando Mensagem">
 </div>
 
 ### Recebendo mensagem
 <div align="center">
-    <img src="https://github.com/Victor-Lis/Message-App-UI/blob/master/project-images/UI2.jpg" alt="Recebendo Mensagem">
+    <img height="50%" src="https://github.com/Victor-Lis/Message-App-UI/blob/master/project-images/UI2.jpg" alt="Recebendo Mensagem">
 </div>
 
 ## Autores
